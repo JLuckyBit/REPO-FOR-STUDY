@@ -1,7 +1,7 @@
-import random
+﻿import random
 
 words_list = ('кошка', 'корова', 'свинья', 'огород',
-             'курица', 'пастух', 'лошадь', 'трактор', 'колодец')
+             'курица', 'пастух', 'лошадь', 'трактор', 'колодец','проспект','небоскреб')
 
 secret_word = random.choice(words_list)
 print(secret_word)
