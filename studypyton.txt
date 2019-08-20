@@ -1,0 +1,6 @@
+print('пора спать')
+answer=input('выполним команду merge? (yes/no):')
+if answer=="y":
+    print('lets go! и сразу спать')
+else:
+    print('в другой раз!')
