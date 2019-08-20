@@ -1,0 +1,5 @@
+answer=input('давайте поболтаем? (yes/no):')
+if answer=="y":
+    print('делай шаг!')
+else:
+    print('пока!')
